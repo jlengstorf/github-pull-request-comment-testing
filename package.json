@@ -1,0 +1,12 @@
+{
+  "name": "github-pull-request-comment-testing",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:jlengstorf/github-pull-request-comment-testing.git",
+  "author": "Jason Lengstorf <jason@lengstorf.com> (https://lengstorf.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/app": "^4.2.1",
+    "@octokit/request": "^5.4.8"
+  }
+}
